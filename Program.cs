@@ -6,7 +6,7 @@ namespace GitTestingApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("You are on master branch");
+            Console.WriteLine("You are on master newBranch");
         }
     }
 }
