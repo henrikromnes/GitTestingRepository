@@ -1,0 +1,13 @@
+C:\Users\Henrik\Repositories\GitTestingApp\bin\Debug\netcoreapp3.1\GitTestingApp.exe
+C:\Users\Henrik\Repositories\GitTestingApp\bin\Debug\netcoreapp3.1\GitTestingApp.deps.json
+C:\Users\Henrik\Repositories\GitTestingApp\bin\Debug\netcoreapp3.1\GitTestingApp.runtimeconfig.json
+C:\Users\Henrik\Repositories\GitTestingApp\bin\Debug\netcoreapp3.1\GitTestingApp.runtimeconfig.dev.json
+C:\Users\Henrik\Repositories\GitTestingApp\bin\Debug\netcoreapp3.1\GitTestingApp.dll
+C:\Users\Henrik\Repositories\GitTestingApp\bin\Debug\netcoreapp3.1\GitTestingApp.pdb
+C:\Users\Henrik\Repositories\GitTestingApp\obj\Debug\netcoreapp3.1\GitTestingApp.csprojAssemblyReference.cache
+C:\Users\Henrik\Repositories\GitTestingApp\obj\Debug\netcoreapp3.1\GitTestingApp.AssemblyInfoInputs.cache
+C:\Users\Henrik\Repositories\GitTestingApp\obj\Debug\netcoreapp3.1\GitTestingApp.AssemblyInfo.cs
+C:\Users\Henrik\Repositories\GitTestingApp\obj\Debug\netcoreapp3.1\GitTestingApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrik\Repositories\GitTestingApp\obj\Debug\netcoreapp3.1\GitTestingApp.dll
+C:\Users\Henrik\Repositories\GitTestingApp\obj\Debug\netcoreapp3.1\GitTestingApp.pdb
+C:\Users\Henrik\Repositories\GitTestingApp\obj\Debug\netcoreapp3.1\GitTestingApp.genruntimeconfig.cache
