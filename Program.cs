@@ -7,6 +7,7 @@ namespace GitTestingApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!grr");
+            Console.WriteLine("New change");
         }
     }
 }
